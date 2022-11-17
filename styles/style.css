@@ -1,7 +1,16 @@
+@font-face {
+    font-family: "Graphik-Regular";
+    src: url(../fonts/Graphik-Regular.ttf);
+}
+@font-face {
+    font-family: "Graphik-Semibold";
+    src: url(../fonts/Graphik-Semibold.ttf);
+}
 *,body,html{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    font-family: "Graphik-Regular";
 }
